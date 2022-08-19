@@ -12,14 +12,14 @@ Main data structures implemented are:
 - Hash Tables
 - Graphs
 
-# Main algorithms implemented are:
+## Main algorithms implemented are:
 - Recursion 
-# Sorts
+### Sorts
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
 - Merge Sort
 - Quick Sort
-# Tree Traversal
+### Tree Traversal
 - Breadth First Search
 - Depth First Search (preorder, postorder, inorder)
