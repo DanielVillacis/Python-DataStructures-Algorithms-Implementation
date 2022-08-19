@@ -12,7 +12,7 @@ Main data structures implemented are:
 - Hash Tables
 - Graphs
 
-Main algorithms implemented are:
+# Main algorithms implemented are:
 - Recursion 
 # Sorts
 - Bubble Sort
